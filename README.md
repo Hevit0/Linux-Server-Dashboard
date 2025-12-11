@@ -32,6 +32,7 @@ alias dashboard='~/path/to/sys_dashboard.sh'
 ```
 
 Example Output:
+```text
 ---------------------------------------------------
       SYSTEM DASHBOARD - 2025-12-11 20:45 
 ---------------------------------------------------
@@ -42,6 +43,7 @@ Hostname: Production-Server-01
 IP Address:  192.168.1.50
 Uptime:      up 2 weeks, 3 days, 4 hours
 ---------------------------------------------------
+```
 RAM Usage:   4.2Gi / 16Gi
 Disk Usage:  45G / 500G (9% used)
 ---------------------------------------------------
